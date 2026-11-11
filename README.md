@@ -42,4 +42,7 @@ src/
 Pagination, URL-based filters, unit tests with Vitest, and a real backend.
 
 ## Screenshots
-Add screenshots here and a live link after deploying to Vercel.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa20b115-9ed9-4ed4-997c-b0ff1a29bc49" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d835fc9-f2e5-4221-9cc8-c48dcadf8515" />
+
+
