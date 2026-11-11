@@ -42,7 +42,8 @@ src/
 Pagination, URL-based filters, unit tests with Vitest, and a real backend.
 
 ## Screenshots
-<img width="1920" height="1080" alt="Screenshot (1414)" src="https://github.com/user-attachments/assets/57e71f8a-61b6-4d9a-9add-96ff085ab6ef" />
+<img width="1920" height="957" alt="Screenshot (1414)" src="https://github.com/user-attachments/assets/2a39cc1a-f66b-429f-93c9-9a085e2b57a9" />
+
 <img width="1920" height="958" alt="Screenshot (1415)" src="https://github.com/user-attachments/assets/19689cdf-76da-494e-b19d-df0ab34b2428" />
 
 
