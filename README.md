@@ -46,7 +46,7 @@ Pagination, URL-based filters, unit tests with Vitest, and a real backend.
 
 <img width="1920" height="958" alt="Screenshot (1415)" src="https://github.com/user-attachments/assets/19689cdf-76da-494e-b19d-df0ab34b2428" />
 
-
+**Live demo:** https://rewire-marketplace.vercel.app
 
 
 
